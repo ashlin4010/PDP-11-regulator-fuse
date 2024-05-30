@@ -16,7 +16,7 @@ Later generation modules shuch as the H7441 include a 32V 15A fuse.
 
 ### Power Connectors
 
-The power connectors can be downloaded as [STL files](https://so-much-stuff.com/pdp8/cad/3d.php) and printed. JLCPCB's resin printing service does a really good job at printing them and cost about $1.50 eash. 
+The power connectors can be downloaded as [STL files](https://so-much-stuff.com/pdp8/cad/3d.php) and printed. JLCPCB's resin printing service does a really good job at printing them and cost about $1.50 each. 
 
 Or you can buy them from here, minimum order quantity is 12:
  * https://www.connectorpeople.com/Connector/TYCO-AMP-TE_CONNECTIVITY/1/1-480460-0
