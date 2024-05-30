@@ -1,0 +1,11 @@
+The power connectors can be downloaded and printed as STL files.
+
+JLCPCB's resin printing service does a really good job at printing them
+
+https://so-much-stuff.com/pdp8/cad/3d.php
+
+or you can buy them from here
+
+https://www.connectorpeople.com/Connector/TYCO-AMP-TE_CONNECTIVITY/1/1-480460-0
+
+https://www.connectorpeople.com/Connector/TYCO-AMP-TE_CONNECTIVITY/1/1-480459-0

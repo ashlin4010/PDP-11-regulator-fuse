@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "PDP-connectors")(type "KiCad")(uri "${KIPRJMOD}/lib/PDP-connectors.pretty")(options "")(descr ""))
+  (lib (name "Connector_PDP-11")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_PDP-11.pretty")(options "")(descr ""))
+)
